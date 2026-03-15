@@ -175,4 +175,3 @@ By analyzing customer behavior, product performance, and sales trends, businesse
 **Rahul Singh**
 
 * LinkedIn: https://www.linkedin.com/in/rahul-kumar-singh-1796b5332/
-# Retail-Sales-Performance-Analysis

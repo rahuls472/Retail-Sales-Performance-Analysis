@@ -118,7 +118,7 @@ Businesses can re-engage these customers through:
 ---
 
 ## Power BI Dashboard
-pic\Dashboard.png
+![Retail Sales Dashboard](pic/Dashboard.png)
 The Power BI dashboard provides an interactive view of the analysis, including:
 
 * Revenue KPIs
